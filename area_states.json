@@ -3,57 +3,57 @@
         "id": 0,
         "environment": "Pasture",
         "neighbors": [
+            2,
             3,
-            4,
-            1
+            4
         ],
-        "water_level": 3.0115292636014988,
-        "food_level": 3.6167184761089235,
-        "wood_level": 2.3009422420507795
+        "water_level": 3.407569646631028,
+        "food_level": 3.1725508972962135,
+        "wood_level": 2.8048305339885955
     },
     {
         "id": 1,
-        "environment": "Forest",
+        "environment": "Desert",
         "neighbors": [
-            2,
-            0
+            4,
+            3,
+            2
         ],
-        "water_level": 3.7102197725145873,
-        "food_level": 3.590328759864183,
-        "wood_level": 9.427292066169235
+        "water_level": 1.323352623115012,
+        "food_level": 1.0707023783135674,
+        "wood_level": 0.5036149108815561
     },
     {
         "id": 2,
         "environment": "Forest",
         "neighbors": [
-            1,
-            3,
-            4
+            0,
+            1
         ],
-        "water_level": 3.9472816860567104,
-        "food_level": 3.399135953545905,
-        "wood_level": 8.124884959948071
+        "water_level": 3.18319725622035,
+        "food_level": 3.809160970462763,
+        "wood_level": 9.899231130085836
     },
     {
         "id": 3,
         "environment": "Desert",
         "neighbors": [
             0,
-            2
+            1
         ],
-        "water_level": 1.1310924857667042,
-        "food_level": 1.3498744086561127,
-        "wood_level": 0.6136380443567904
+        "water_level": 1.3144794232962693,
+        "food_level": 1.0036317603394411,
+        "wood_level": 0.9440678277780067
     },
     {
         "id": 4,
-        "environment": "Desert",
+        "environment": "Pasture",
         "neighbors": [
-            0,
-            2
+            1,
+            0
         ],
-        "water_level": 1.0831096646027385,
-        "food_level": 1.293628910666942,
-        "wood_level": 0.7497668605942611
+        "water_level": 3.5678352427275546,
+        "food_level": 3.1022632845426767,
+        "wood_level": 2.661574013031525
     }
 ]

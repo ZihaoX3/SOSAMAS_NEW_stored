@@ -7,8 +7,8 @@ import (
 
 func main() {
 	// Parameters for initialization
-	numTribes := 10                    // Example: Number of tribes
-	tribeSize := 15                    // Example: Size of each tribe
+	numTribes := 20                    // Example: Number of tribes
+	tribeSize := 5                     // Example: Size of each tribe
 	porofGreedy := 0.2                 // Example: Proportion of greedy members
 	mapSize := 5                       // Example: Size of the map
 	bandit_original_attack_rate := 0.4 // Example: Bandit original attack rate
@@ -30,5 +30,5 @@ func main() {
 	// Run the simulation
 	// Parameters: number of iterations, and whether the greedy switch is enabled
 	//RunSimulation(iterations int, greedySwitch bool, origional_defence_rate float64, origional_death_rate float64, origional_birth_rate float64)
-	s.RunSimulation(100, false, origional_defence_rate, origional_death_rate, origional_birth_rate) // Adjust the 100 to however many iterations you need
+	s.RunSimulation(100, true, origional_defence_rate, origional_death_rate, origional_birth_rate) // Adjust the 100 to however many iterations you need
 }
