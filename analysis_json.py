@@ -37,6 +37,6 @@ for role in ['Bandit_Agent', 'Farmer_agent', 'Forager_agent']:
     }
 
 # Append the results to a file
-with open('all_results_exgreedy100.json', 'a') as f:
+with open('all_results_tribesize15.json', 'a') as f:
     json.dump(results, f)
     f.write('\n')
