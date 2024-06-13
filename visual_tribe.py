@@ -265,5 +265,5 @@ def main_game_loop():
     pygame.quit()
 
 if __name__ == "__main__":
-    pygame.time.set_timer(pygame.USEREVENT + 1, 1500)
+    pygame.time.set_timer(pygame.USEREVENT + 1, 300)
     main_game_loop()

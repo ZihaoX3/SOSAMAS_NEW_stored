@@ -34,7 +34,7 @@
 # for role in average_data['Role'].unique():
 #     role_data = average_data[average_data['Role'] == role]
 #     plt.plot(role_data['Greediness'], role_data['Lifespan'], label=f'{role}')
-# plt.title('Average Lifespan per Role over Greediness Levels')
+# plt.title('Average Lifespan per Role over Normal Greediness Levels')
 # plt.xlabel('Greediness Level')
 # plt.ylabel('Average Lifespan')
 # plt.legend()
@@ -45,7 +45,7 @@
 # for role in average_data['Role'].unique():
 #     role_data = average_data[average_data['Role'] == role]
 #     plt.plot(role_data['Greediness'], role_data['Average Food'], label=f'{role}')
-# plt.title('Average Food Level per Role over Greediness Levels')
+# plt.title('Average Food Level per Role over Normal Greediness Levels')
 # plt.xlabel('Greediness Level')
 # plt.ylabel('Average Food Level')
 # plt.legend()
@@ -56,7 +56,7 @@
 # for role in average_data['Role'].unique():
 #     role_data = average_data[average_data['Role'] == role]
 #     plt.plot(role_data['Greediness'], role_data['Average Wood'], label=f'{role}')
-# plt.title('Average Wood Level per Role over Greediness Levels')
+# plt.title('Average Wood Level per Role over Normal Greediness Levels')
 # plt.xlabel('Greediness Level')
 # plt.ylabel('Average Wood Level')
 # plt.legend()
@@ -67,7 +67,7 @@
 # for role in average_data['Role'].unique():
 #     role_data = average_data[average_data['Role'] == role]
 #     plt.plot(role_data['Greediness'], role_data['Average Water'], label=f'{role}')
-# plt.title('Average Water Level per Role over Greediness Levels')
+# plt.title('Average Water Level per Role over Normal Greediness Levels')
 # plt.xlabel('Greediness Level')
 # plt.ylabel('Average Water Level')
 # plt.legend()
@@ -205,7 +205,7 @@ average_data_extreme = all_data_extreme.groupby(['Greediness', 'Role']).mean().r
 average_data_normal = all_data_normal.groupby(['Greediness', 'Role']).mean().reset_index()
 
 # Calculate differences between extreme and normal averages
-difference_data = average_data_extreme.set_index(['Greediness', 'Role']) - average_data_normal.set_index(['Greediness', 'Role'])
+difference_data = average_data_normal.set_index(['Greediness', 'Role']) - average_data_extreme.set_index(['Greediness', 'Role'])
 difference_data = difference_data.reset_index()
 
 # Plot differences for each role
@@ -214,7 +214,7 @@ for metric in ['Lifespan', 'Average Food', 'Average Wood', 'Average Water']:
     for role in difference_data['Role'].unique():
         role_data = difference_data[difference_data['Role'] == role]
         plt.plot(role_data['Greediness'], role_data[metric], label=f'{role}')
-    plt.title(f'Difference in {metric} per Role between EXTREME and Normal Greediness Levels')
+    plt.title(f'Difference in {metric} per Role between Normal and extreme Greediness Levels')
     plt.xlabel('Greediness Level')
     plt.ylabel(f'Difference in {metric}')
     plt.legend()

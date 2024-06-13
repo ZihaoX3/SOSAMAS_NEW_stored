@@ -12,4 +12,7 @@ const moderate_max_consumption = 0.2  // any need for random?
 const predator_max_consumption = 0.05 // any need for random?
 const predator_min_consumption = 0.03 // any need for random?
 
+// const predator_max_consumption = 0.1  // any need for random?
+// const predator_min_consumption = 0.08 // any need for random?
+
 const farmer_max_consumption = 0.4 // any need for random?

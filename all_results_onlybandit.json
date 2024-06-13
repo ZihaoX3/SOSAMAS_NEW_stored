@@ -1,0 +1,981 @@
+{
+    "Bandit_Agent": {
+        "livespan": 6.1652892561983474,
+        "average_food": 0.737591687966536,
+        "average_wood": 0.13869269120176309,
+        "average_water": 0.7587556399978327
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.669902912621359,
+        "average_food": 0.7026652618291399,
+        "average_wood": 0.12713873457235322,
+        "average_water": 0.7425304578308832
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.711711711711712,
+        "average_food": 0.7906373207568557,
+        "average_wood": 0.09466886547775175,
+        "average_water": 0.7879569702398778
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.524271844660194,
+        "average_food": 0.7783264908596491,
+        "average_wood": 0.1048016395839098,
+        "average_water": 0.7387284583606201
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 14.728682170542635,
+        "average_food": 0.7301584066031048,
+        "average_wood": 0.14546942771953367,
+        "average_water": 0.7561116147172762
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.089655172413794,
+        "average_food": 0.7645604023091467,
+        "average_wood": 0.11188804650772126,
+        "average_water": 0.7656152441885622
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.710280373831775,
+        "average_food": 0.731171383289189,
+        "average_wood": 0.08287936210619355,
+        "average_water": 0.7399525082010626
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.658536585365853,
+        "average_food": 0.7721861298762919,
+        "average_wood": 0.12040515291446773,
+        "average_water": 0.748499367339007
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.782178217821782,
+        "average_food": 0.7679806062085053,
+        "average_wood": 0.08716152149799695,
+        "average_water": 0.7529126872473029
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.7105263157894735,
+        "average_food": 0.7655899355215535,
+        "average_wood": 0.11545230552871621,
+        "average_water": 0.7339569065474826
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.8807339449541285,
+        "average_food": 0.7916955810649512,
+        "average_wood": 0.11319466624726955,
+        "average_water": 0.8128371361165972
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.255813953488372,
+        "average_food": 0.7768182521553094,
+        "average_wood": 0.09368816915252377,
+        "average_water": 0.8208441623802855
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.954545454545455,
+        "average_food": 0.7760716841667009,
+        "average_wood": 0.12373076998556999,
+        "average_water": 0.7223189962712775
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.482758620689655,
+        "average_food": 0.7321937309762226,
+        "average_wood": 0.10544518014011295,
+        "average_water": 0.7552122419935674
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 12.013605442176871,
+        "average_food": 0.7465914793534365,
+        "average_wood": 0.11595344220629919,
+        "average_water": 0.7396454267890415
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.276785714285714,
+        "average_food": 0.7282494401678534,
+        "average_wood": 0.06612352029619432,
+        "average_water": 0.7350248361801844
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.5964912280701755,
+        "average_food": 0.7053622731244521,
+        "average_wood": 0.07941970802642621,
+        "average_water": 0.7355710712547728
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.35593220338983,
+        "average_food": 0.7363699365600146,
+        "average_wood": 0.054770878390686964,
+        "average_water": 0.7714988369888701
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.373831775700935,
+        "average_food": 0.7659451786253193,
+        "average_wood": 0.10910448064085447,
+        "average_water": 0.804074688471778
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.392,
+        "average_food": 0.7036966383072174,
+        "average_wood": 0.09613820317303753,
+        "average_water": 0.7576941179049815
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.505747126436781,
+        "average_food": 0.8000069594418736,
+        "average_wood": 0.06894684185730655,
+        "average_water": 0.7792214599778028
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.0636363636363635,
+        "average_food": 0.7856917984454814,
+        "average_wood": 0.1082436909991342,
+        "average_water": 0.7614711507870251
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.195876288659794,
+        "average_food": 0.732096242011742,
+        "average_wood": 0.09469202892968663,
+        "average_water": 0.7364180935437051
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.965217391304348,
+        "average_food": 0.7469672720608675,
+        "average_wood": 0.09242951375426696,
+        "average_water": 0.8009481755019692
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.125,
+        "average_food": 0.7760959660514027,
+        "average_wood": 0.12014890428571429,
+        "average_water": 0.7638572651633039
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.051020408163265,
+        "average_food": 0.7366362739267571,
+        "average_wood": 0.08689153327910645,
+        "average_water": 0.7583937196424096
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.64,
+        "average_food": 0.7234075800808262,
+        "average_wood": 0.048295489469810965,
+        "average_water": 0.7751549457415545
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 11.234782608695653,
+        "average_food": 0.7890079453404838,
+        "average_wood": 0.12792518303797623,
+        "average_water": 0.7785009585375638
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.955357142857143,
+        "average_food": 0.7942370054283912,
+        "average_wood": 0.12380804548424443,
+        "average_water": 0.7404520630927257
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.724137931034483,
+        "average_food": 0.7448537979367683,
+        "average_wood": 0.1225384872396547,
+        "average_water": 0.7571995674211041
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 16.85185185185185,
+        "average_food": 0.7768485590773087,
+        "average_wood": 0.13949181091474863,
+        "average_water": 0.7795750630392237
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 13.755813953488373,
+        "average_food": 0.7376407395053685,
+        "average_wood": 0.10368653823713345,
+        "average_water": 0.7613846915715031
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 12.889705882352942,
+        "average_food": 0.71647903948629,
+        "average_wood": 0.12304653053693726,
+        "average_water": 0.6968675932476461
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.046875,
+        "average_food": 0.7116904874035179,
+        "average_wood": 0.1066619977335675,
+        "average_water": 0.7449690227454088
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.39,
+        "average_food": 0.7025354389072344,
+        "average_wood": 0.09184219632784887,
+        "average_water": 0.7684634009452763
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.654867256637168,
+        "average_food": 0.7295684926119081,
+        "average_wood": 0.06134387867418061,
+        "average_water": 0.8092913794054171
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.340425531914893,
+        "average_food": 0.7935975178483566,
+        "average_wood": 0.08314576497360286,
+        "average_water": 0.8144341045618221
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.752475247524752,
+        "average_food": 0.7419990406595834,
+        "average_wood": 0.08992469134376445,
+        "average_water": 0.786796164063623
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 27.162790697674417,
+        "average_food": 0.7436684309852287,
+        "average_wood": 0.14182962043261527,
+        "average_water": 0.7592505459466281
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 11.611510791366907,
+        "average_food": 0.7463339186931641,
+        "average_wood": 0.13411647205599467,
+        "average_water": 0.7775516809377153
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.923913043478261,
+        "average_food": 0.7171888037843885,
+        "average_wood": 0.09759305623626541,
+        "average_water": 0.7240112704816105
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.494949494949495,
+        "average_food": 0.8227530882001334,
+        "average_wood": 0.10643947022222222,
+        "average_water": 0.8091216395800149
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.037735849056604,
+        "average_food": 0.7641029082353494,
+        "average_wood": 0.0837130166806005,
+        "average_water": 0.73120717718679
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.094827586206897,
+        "average_food": 0.8216408431549023,
+        "average_wood": 0.09886015480821402,
+        "average_water": 0.7689236586300231
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.37,
+        "average_food": 0.8275341070966226,
+        "average_wood": 0.11821335122435743,
+        "average_water": 0.8160889243645534
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.76865671641791,
+        "average_food": 0.7794187921368471,
+        "average_wood": 0.13444480238030423,
+        "average_water": 0.7744648545838613
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.7407407407407405,
+        "average_food": 0.7847582922995012,
+        "average_wood": 0.10364604265596106,
+        "average_water": 0.7630780702113424
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.415094339622642,
+        "average_food": 0.7431516632021556,
+        "average_wood": 0.1051356869927922,
+        "average_water": 0.7726902254892021
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.673267326732673,
+        "average_food": 0.7008695509260384,
+        "average_wood": 0.08508462547580611,
+        "average_water": 0.7569604409906306
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 21.124324324324323,
+        "average_food": 0.7409425709508591,
+        "average_wood": 0.11973518908602457,
+        "average_water": 0.7405854473258817
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.980769230769231,
+        "average_food": 0.7579999194381272,
+        "average_wood": 0.08573410023096592,
+        "average_water": 0.7391111546580454
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.330097087378641,
+        "average_food": 0.7984101063558959,
+        "average_wood": 0.1270414969579288,
+        "average_water": 0.7601445370725713
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.373737373737374,
+        "average_food": 0.7992555651447204,
+        "average_wood": 0.08906286227491934,
+        "average_water": 0.7802060420976874
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.4921875,
+        "average_food": 0.7189227291328103,
+        "average_wood": 0.09924022000823454,
+        "average_water": 0.7632900980375755
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.548387096774194,
+        "average_food": 0.8115530192870787,
+        "average_wood": 0.0978811644277856,
+        "average_water": 0.7971849676385543
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 3.56,
+        "average_food": 0.7825581399241751,
+        "average_wood": 0.10583931962920635,
+        "average_water": 0.7994011695038388
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.475728155339806,
+        "average_food": 0.7647762483119802,
+        "average_wood": 0.09431117178873649,
+        "average_water": 0.7616629115039958
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.505747126436781,
+        "average_food": 0.7300511470391692,
+        "average_wood": 0.0844368253968254,
+        "average_water": 0.7750528894513542
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 13.428571428571429,
+        "average_food": 0.7845888698210872,
+        "average_wood": 0.10370264415177949,
+        "average_water": 0.7643076733054252
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.17094017094017,
+        "average_food": 0.7153777425301107,
+        "average_wood": 0.12113783619905087,
+        "average_water": 0.7563004946359287
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 3.960526315789474,
+        "average_food": 0.7825262493769097,
+        "average_wood": 0.0934037011740408,
+        "average_water": 0.7543398427285662
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.089108910891088,
+        "average_food": 0.7477044890930243,
+        "average_wood": 0.10908647656765677,
+        "average_water": 0.7640017234062744
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.764705882352941,
+        "average_food": 0.7500200820872148,
+        "average_wood": 0.06294025761884489,
+        "average_water": 0.7661843202204995
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.491071428571429,
+        "average_food": 0.7579627151718922,
+        "average_wood": 0.10112050349086625,
+        "average_water": 0.7380538920217029
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.342657342657343,
+        "average_food": 0.7293240963528097,
+        "average_wood": 0.08970285315848704,
+        "average_water": 0.7394910086859707
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.821782178217822,
+        "average_food": 0.8136769309593574,
+        "average_wood": 0.10687601139066268,
+        "average_water": 0.8364208048279987
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.229007633587786,
+        "average_food": 0.7513686084392169,
+        "average_wood": 0.12067753465987281,
+        "average_water": 0.7398745143080124
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 15.580152671755725,
+        "average_food": 0.7581422506995517,
+        "average_wood": 0.14671493311087075,
+        "average_water": 0.7890210693402251
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.464566929133858,
+        "average_food": 0.7513393163471049,
+        "average_wood": 0.11941256438988239,
+        "average_water": 0.7629811289028519
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.092105263157895,
+        "average_food": 0.7138851041212028,
+        "average_wood": 0.09495610579990173,
+        "average_water": 0.7403553954033094
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.76,
+        "average_food": 0.7893876442385953,
+        "average_wood": 0.10590800763156041,
+        "average_water": 0.761702398950161
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.438775510204081,
+        "average_food": 0.7969049872249022,
+        "average_wood": 0.07186775776429337,
+        "average_water": 0.7988588438254783
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.96031746031746,
+        "average_food": 0.820830231183867,
+        "average_wood": 0.10835516616414537,
+        "average_water": 0.7582643261232234
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.661764705882353,
+        "average_food": 0.7884971813595046,
+        "average_wood": 0.14208449502334267,
+        "average_water": 0.7825314480160772
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.107142857142857,
+        "average_food": 0.7573328499577648,
+        "average_wood": 0.12521077469387756,
+        "average_water": 0.7632768170144887
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.879518072289157,
+        "average_food": 0.7473804433813336,
+        "average_wood": 0.047385586870578734,
+        "average_water": 0.7508323703166826
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.759036144578313,
+        "average_food": 0.7640117002924014,
+        "average_wood": 0.05244744965544591,
+        "average_water": 0.7582785301002446
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.298076923076923,
+        "average_food": 0.7769715406492871,
+        "average_wood": 0.07729960159788189,
+        "average_water": 0.7815915466106832
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.682432432432432,
+        "average_food": 0.7076833678277029,
+        "average_wood": 0.0750080586427759,
+        "average_water": 0.7140681658085252
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.741071428571429,
+        "average_food": 0.7279204804087381,
+        "average_wood": 0.12107865251724957,
+        "average_water": 0.7274511672613216
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 13.075,
+        "average_food": 0.7586669179127786,
+        "average_wood": 0.1093189948201379,
+        "average_water": 0.7989784038543044
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.6477272727272725,
+        "average_food": 0.7337447562593333,
+        "average_wood": 0.10481827546897547,
+        "average_water": 0.7444053178267164
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.883720930232558,
+        "average_food": 0.7395662644022797,
+        "average_wood": 0.10278229139261806,
+        "average_water": 0.7826061077417888
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.053571428571429,
+        "average_food": 0.8113274255716776,
+        "average_wood": 0.10032624896821772,
+        "average_water": 0.798771420583548
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 12.965034965034965,
+        "average_food": 0.774307137685334,
+        "average_wood": 0.10381637733087817,
+        "average_water": 0.8019776782058617
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.766666666666667,
+        "average_food": 0.7424008419316563,
+        "average_wood": 0.06265992544729079,
+        "average_water": 0.7402159304164126
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.0588235294117645,
+        "average_food": 0.7446794408424751,
+        "average_wood": 0.12940844205203483,
+        "average_water": 0.7460139261139249
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.6138613861386135,
+        "average_food": 0.7812079382035308,
+        "average_wood": 0.13200438283828383,
+        "average_water": 0.7701117601938304
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.211111111111111,
+        "average_food": 0.7356004202019912,
+        "average_wood": 0.08868912289140217,
+        "average_water": 0.7410015248303792
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 11.401574803149606,
+        "average_food": 0.7199154571235749,
+        "average_wood": 0.10895428412758786,
+        "average_water": 0.7884295930456848
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 11.612903225806452,
+        "average_food": 0.7201845532314426,
+        "average_wood": 0.1299136190439471,
+        "average_water": 0.779542643902012
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.968421052631579,
+        "average_food": 0.7448954208523891,
+        "average_wood": 0.10013470295907016,
+        "average_water": 0.7468229076722542
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.982142857142857,
+        "average_food": 0.77472354564696,
+        "average_wood": 0.1343806287755102,
+        "average_water": 0.7646650021073855
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 16.940828402366865,
+        "average_food": 0.7692412305999479,
+        "average_wood": 0.13448981407740576,
+        "average_water": 0.7720583746240436
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.280701754385965,
+        "average_food": 0.7715586616922283,
+        "average_wood": 0.038107853780627525,
+        "average_water": 0.7782236693820589
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.629213483146067,
+        "average_food": 0.6953487988074838,
+        "average_wood": 0.05591068109483534,
+        "average_water": 0.7404201131007676
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.962962962962963,
+        "average_food": 0.7527999327660093,
+        "average_wood": 0.05518171180695289,
+        "average_water": 0.7468167241755144
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.044642857142857,
+        "average_food": 0.7200078062847962,
+        "average_wood": 0.08516668531084098,
+        "average_water": 0.7181380385928468
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.1938775510204085,
+        "average_food": 0.8064523470324952,
+        "average_wood": 0.11592946294522227,
+        "average_water": 0.8011078321736858
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.051546391752577,
+        "average_food": 0.7331723313742814,
+        "average_wood": 0.06572917539542722,
+        "average_water": 0.6984941149137671
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.035398230088495,
+        "average_food": 0.7312498494512921,
+        "average_wood": 0.09882446237767838,
+        "average_water": 0.7541926027626851
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.149532710280374,
+        "average_food": 0.7439059524659539,
+        "average_wood": 0.09661031162100056,
+        "average_water": 0.745117376080158
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.0495049504950495,
+        "average_food": 0.7922350644271072,
+        "average_wood": 0.12026733403233075,
+        "average_water": 0.8164795279662218
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.309278350515464,
+        "average_food": 0.7622411222727514,
+        "average_wood": 0.12759318703976436,
+        "average_water": 0.7699775855809138
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.390476190476191,
+        "average_food": 0.7786965278050104,
+        "average_wood": 0.09947436457116829,
+        "average_water": 0.7811438320966132
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 12.343283582089553,
+        "average_food": 0.7779873543168189,
+        "average_wood": 0.10799883120173244,
+        "average_water": 0.7487024184479202
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.6875,
+        "average_food": 0.7578430620287645,
+        "average_wood": 0.12043679070605133,
+        "average_water": 0.7830350306992806
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.38135593220339,
+        "average_food": 0.7382920027747761,
+        "average_wood": 0.10894941822674163,
+        "average_water": 0.7355339792679342
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.061946902654867,
+        "average_food": 0.7270845873245702,
+        "average_wood": 0.11298199321901163,
+        "average_water": 0.7142876972399235
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.945454545454545,
+        "average_food": 0.7999399668930506,
+        "average_wood": 0.11085732731085461,
+        "average_water": 0.7867924608342034
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.61,
+        "average_food": 0.7591509685763909,
+        "average_wood": 0.10015651103487531,
+        "average_water": 0.8031125128145628
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 15.077922077922079,
+        "average_food": 0.7419915427236154,
+        "average_wood": 0.14394994169583095,
+        "average_water": 0.75596384835855
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.194915254237289,
+        "average_food": 0.7390894904573314,
+        "average_wood": 0.08401228313842453,
+        "average_water": 0.6907791642618668
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 9.586206896551724,
+        "average_food": 0.7614070846929039,
+        "average_wood": 0.14186844368988558,
+        "average_water": 0.7720394523333584
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.975,
+        "average_food": 0.7603070509880858,
+        "average_wood": 0.10672352009521598,
+        "average_water": 0.7378952401427512
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.598214285714286,
+        "average_food": 0.7173430207059733,
+        "average_wood": 0.11767523723748984,
+        "average_water": 0.7649210202317491
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.375,
+        "average_food": 0.7561795101339501,
+        "average_wood": 0.10049420537039706,
+        "average_water": 0.7617105828402165
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.513274336283186,
+        "average_food": 0.7844724895642324,
+        "average_wood": 0.11069026890325658,
+        "average_water": 0.7283230525299292
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.569767441860465,
+        "average_food": 0.7349718326083988,
+        "average_wood": 0.09453131667774087,
+        "average_water": 0.771802828894867
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.782608695652174,
+        "average_food": 0.7207705741030102,
+        "average_wood": 0.07223231683922622,
+        "average_water": 0.7291386673821546
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.628571428571429,
+        "average_food": 0.7391984950548484,
+        "average_wood": 0.07571767644982466,
+        "average_water": 0.7819280447664484
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.533333333333333,
+        "average_food": 0.7087774194979184,
+        "average_wood": 0.0679209466515312,
+        "average_water": 0.7163450710282834
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.319148936170213,
+        "average_food": 0.7644580410364684,
+        "average_wood": 0.12322596278014185,
+        "average_water": 0.7552725415239665
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 3.7777777777777777,
+        "average_food": 0.757149509588337,
+        "average_wood": 0.06692574673331776,
+        "average_water": 0.7640417401429366
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.939655172413793,
+        "average_food": 0.7463203847019557,
+        "average_wood": 0.11200524417077176,
+        "average_water": 0.780602111394933
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.571428571428571,
+        "average_food": 0.8276240132724909,
+        "average_wood": 0.11919633559844808,
+        "average_water": 0.776132021715447
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 8.12396694214876,
+        "average_food": 0.7584250581992819,
+        "average_wood": 0.09907189470310404,
+        "average_water": 0.7218681762410725
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.451327433628318,
+        "average_food": 0.7463879856044608,
+        "average_wood": 0.10767108716210415,
+        "average_water": 0.7850439694853891
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.045045045045045,
+        "average_food": 0.7706399493846283,
+        "average_wood": 0.06883024917404633,
+        "average_water": 0.7558780011336768
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 4.659090909090909,
+        "average_food": 0.7049287950717991,
+        "average_wood": 0.05066036196545789,
+        "average_water": 0.7628377026868477
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.535087719298246,
+        "average_food": 0.7433128151656618,
+        "average_wood": 0.11130127475560274,
+        "average_water": 0.7375007589348698
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.83,
+        "average_food": 0.7763385628094625,
+        "average_wood": 0.10443773215518809,
+        "average_water": 0.7751645258858639
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.57615894039735,
+        "average_food": 0.7486447033540301,
+        "average_wood": 0.13462578675373635,
+        "average_water": 0.7253468065712817
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.588235294117647,
+        "average_food": 0.7961154009925128,
+        "average_wood": 0.12901203023796465,
+        "average_water": 0.7969965795103754
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 13.463235294117647,
+        "average_food": 0.7988287533544207,
+        "average_wood": 0.14344493130182198,
+        "average_water": 0.7865658322798582
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 11.933884297520661,
+        "average_food": 0.7330109944865997,
+        "average_wood": 0.07596155324828416,
+        "average_water": 0.7316972068977503
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 6.3474576271186445,
+        "average_food": 0.7670072598006896,
+        "average_wood": 0.13432824650460048,
+        "average_water": 0.7988355317747612
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 5.536363636363636,
+        "average_food": 0.773480661512553,
+        "average_wood": 0.13510356290770562,
+        "average_water": 0.7496144371762736
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 10.78740157480315,
+        "average_food": 0.7292207406904336,
+        "average_wood": 0.07574622426626691,
+        "average_water": 0.7620947825987363
+    }
+}{
+    "Bandit_Agent": {
+        "livespan": 7.463414634146342,
+        "average_food": 0.7693069491497302,
+        "average_wood": 0.04660866253429735,
+        "average_water": 0.7417372540340647
+    }
+}

@@ -97,6 +97,7 @@ func (t *Tribe) InitializeTribe(origional_death_rate float64, origional_birth_ra
 	t.numofbirth = 0
 	t.totalneeds_ofwood_forboat = 3
 	t.totalneeds_ofwood_forshettle = 2
+	// t.totalneeds_ofwood_forshettle = 3
 	t.Haveboat = false
 	t.Shettle_level = 0
 	t.Isattacking = false

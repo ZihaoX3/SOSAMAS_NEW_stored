@@ -1,0 +1,981 @@
+{
+    "Farmer_agent": {
+        "livespan": 43.175,
+        "average_food": 1.8553904000296146,
+        "average_wood": 1.3283288875123116,
+        "average_water": 2.2563134411422383
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.14896988906498,
+        "average_food": 1.3627653021615662,
+        "average_wood": 0.8682548680326126,
+        "average_water": 1.4693921379736103
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 12.09047619047619,
+        "average_food": 0.7652467194767584,
+        "average_wood": 0.0535122605881135,
+        "average_water": 0.796278212087136
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.255102040816325,
+        "average_food": 0.797818776028723,
+        "average_wood": 0.11255377733146825,
+        "average_water": 0.8398664910843034
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.31375838926174,
+        "average_food": 1.5587869141836819,
+        "average_wood": 0.9915950732425718,
+        "average_water": 1.8881074464622178
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.839941262848754,
+        "average_food": 1.3532341235888767,
+        "average_wood": 0.8581028056347771,
+        "average_water": 1.6607788169721716
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.785526315789475,
+        "average_food": 1.8044116663029586,
+        "average_wood": 1.359593374675143,
+        "average_water": 2.183636113054675
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.67294117647059,
+        "average_food": 1.344614730350964,
+        "average_wood": 0.6704515066654126,
+        "average_water": 1.5826823058705886
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 47.98922155688623,
+        "average_food": 2.65737756986953,
+        "average_wood": 2.1069475329081726,
+        "average_water": 3.513872679684387
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.901498929336185,
+        "average_food": 1.6365677537295038,
+        "average_wood": 1.0937872322177644,
+        "average_water": 1.955337049963216
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.50299401197605,
+        "average_food": 1.1545481613234743,
+        "average_wood": 0.5715673937416803,
+        "average_water": 1.3128298685340625
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.44672131147541,
+        "average_food": 0.8362487778205204,
+        "average_wood": 0.213694520555939,
+        "average_water": 0.9432996694572775
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.35498839907193,
+        "average_food": 1.2492481225287344,
+        "average_wood": 0.7117220529773393,
+        "average_water": 1.4979254695967317
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.65654648956357,
+        "average_food": 2.0493256057870197,
+        "average_wood": 1.4176540356165928,
+        "average_water": 2.4971948352225666
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.83505154639175,
+        "average_food": 1.4688547820541873,
+        "average_wood": 0.8955462171804045,
+        "average_water": 1.834530215501164
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 9.030674846625766,
+        "average_food": 0.7836681334249833,
+        "average_wood": 0.05613666415647408,
+        "average_water": 0.775998497390609
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.56440677966102,
+        "average_food": 0.9186890664027236,
+        "average_wood": 0.3045591148578508,
+        "average_water": 1.092694664835892
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 48.730643402399124,
+        "average_food": 1.6564781246703801,
+        "average_wood": 1.1609688725909173,
+        "average_water": 1.9592915417075452
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.62925851703407,
+        "average_food": 2.8853348348803034,
+        "average_wood": 2.4500834349168024,
+        "average_water": 3.287465297242552
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.87096774193548,
+        "average_food": 3.6408737409393477,
+        "average_wood": 3.320103682990542,
+        "average_water": 4.680304447987843
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 48.16271186440678,
+        "average_food": 1.1295506444435477,
+        "average_wood": 0.6414283431910268,
+        "average_water": 1.334896854607035
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.40669014084507,
+        "average_food": 0.8432996182643446,
+        "average_wood": 0.23451196848628858,
+        "average_water": 0.9137057317785773
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.1501210653753,
+        "average_food": 1.2825108939584864,
+        "average_wood": 0.7524650634098022,
+        "average_water": 1.5074322364541681
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.31886477462437,
+        "average_food": 2.023954309845757,
+        "average_wood": 1.3960919460486354,
+        "average_water": 2.5451664543359453
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.047285464098074,
+        "average_food": 1.0275682790314633,
+        "average_wood": 0.45403270826797637,
+        "average_water": 1.1857262990284343
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 24.861538461538462,
+        "average_food": 0.8008345275639008,
+        "average_wood": 0.10973921321420271,
+        "average_water": 0.8042535063740001
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.13375,
+        "average_food": 1.1941912969078499,
+        "average_wood": 0.6025733172921591,
+        "average_water": 1.4743500552406472
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.970319634703195,
+        "average_food": 1.323539513521596,
+        "average_wood": 0.6449738856132834,
+        "average_water": 1.5159775165592038
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.23756019261637,
+        "average_food": 1.2753593460846167,
+        "average_wood": 0.6422169716011803,
+        "average_water": 1.544373837987841
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.53431372549019,
+        "average_food": 1.6789735511462622,
+        "average_wood": 1.2292455850692316,
+        "average_water": 2.1295632823559854
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.7085201793722,
+        "average_food": 1.1656032001067855,
+        "average_wood": 0.5713162809177945,
+        "average_water": 1.3767736626113425
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.402504472271914,
+        "average_food": 1.3256038194886242,
+        "average_wood": 0.6274373800402311,
+        "average_water": 1.6284638881161535
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.61847988077496,
+        "average_food": 1.3376177020737248,
+        "average_wood": 0.7084199817487496,
+        "average_water": 1.6220552459089064
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.14261744966443,
+        "average_food": 1.1802821317202894,
+        "average_wood": 0.6646747527752458,
+        "average_water": 1.4761518388155588
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.10709677419355,
+        "average_food": 1.4884612943103512,
+        "average_wood": 0.9050965491374215,
+        "average_water": 1.930604536578339
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.82161234991424,
+        "average_food": 0.794466640833663,
+        "average_wood": 0.2840874658506414,
+        "average_water": 0.8300533808473994
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.15813953488372,
+        "average_food": 1.2532741510530485,
+        "average_wood": 0.6864235389931174,
+        "average_water": 1.4398850139766284
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.418013856812934,
+        "average_food": 0.8940526332418538,
+        "average_wood": 0.3339878954493436,
+        "average_water": 1.011679251199719
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.42336683417086,
+        "average_food": 1.076727881677447,
+        "average_wood": 0.48675268067794597,
+        "average_water": 1.3060391756325906
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.223320158102766,
+        "average_food": 0.796907724390758,
+        "average_wood": 0.2119910302820304,
+        "average_water": 0.8704396634776428
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 33.77884615384615,
+        "average_food": 2.17546877247085,
+        "average_wood": 1.4387811086900613,
+        "average_water": 2.9587240405121604
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.3317384370016,
+        "average_food": 1.2249018180733036,
+        "average_wood": 0.8226576633625153,
+        "average_water": 1.5032265033360837
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.34583333333333,
+        "average_food": 2.3812550931920837,
+        "average_wood": 1.9240076523058667,
+        "average_water": 2.9336938576717873
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.31194690265487,
+        "average_food": 1.41760392399473,
+        "average_wood": 0.8084561903298831,
+        "average_water": 1.6717544323333087
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.6257225433526,
+        "average_food": 1.2007186786865849,
+        "average_wood": 0.5184939746484826,
+        "average_water": 1.4905303266317214
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.08565310492505,
+        "average_food": 4.4331344998607145,
+        "average_wood": 3.6487203206000287,
+        "average_water": 6.0455499051407875
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.03260869565217,
+        "average_food": 1.3334270016454963,
+        "average_wood": 0.7097322214320223,
+        "average_water": 1.6110915992829271
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.506024096385545,
+        "average_food": 1.557161812191956,
+        "average_wood": 0.905945530482495,
+        "average_water": 1.8791777163596501
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.376689189189186,
+        "average_food": 0.8375303557509652,
+        "average_wood": 0.20360117843767725,
+        "average_water": 0.9189547603735652
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.7006237006237,
+        "average_food": 1.1860749467308465,
+        "average_wood": 0.5352325361844905,
+        "average_water": 1.4131501425711819
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.503607503607505,
+        "average_food": 0.9536129686209626,
+        "average_wood": 0.34149982486148306,
+        "average_water": 1.06392537252893
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.793322734499206,
+        "average_food": 1.0282141408918608,
+        "average_wood": 0.497829647178781,
+        "average_water": 1.2277560775535943
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.52585119798235,
+        "average_food": 1.8237824150392619,
+        "average_wood": 1.2215451608491896,
+        "average_water": 2.2878140917711045
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.36827956989247,
+        "average_food": 1.7280472342758235,
+        "average_wood": 1.248340472359694,
+        "average_water": 2.2011616308557964
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.37564766839378,
+        "average_food": 1.3900559674666022,
+        "average_wood": 0.8019667032434062,
+        "average_water": 1.647967325297266
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 48.69607843137255,
+        "average_food": 1.6152301433652452,
+        "average_wood": 1.0760517537097871,
+        "average_water": 1.9915897475716542
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.734042553191486,
+        "average_food": 1.1455341792687164,
+        "average_wood": 0.529597200609569,
+        "average_water": 1.39555055146256
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.94600938967136,
+        "average_food": 0.8070898203955873,
+        "average_wood": 0.165752552706518,
+        "average_water": 0.8551670380685459
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.775061124694375,
+        "average_food": 3.444636783357765,
+        "average_wood": 2.7941053157173052,
+        "average_water": 4.550232114537456
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.02302631578947,
+        "average_food": 1.915263058739275,
+        "average_wood": 1.2682622443863685,
+        "average_water": 2.3290638338660634
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.59610027855153,
+        "average_food": 2.1475865027373056,
+        "average_wood": 1.5883676906435291,
+        "average_water": 2.780242362984138
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.134438305709025,
+        "average_food": 2.4415520314228543,
+        "average_wood": 1.8503288917731249,
+        "average_water": 3.242212428264083
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.634266886326195,
+        "average_food": 1.1675505039833987,
+        "average_wood": 0.5112073255589465,
+        "average_water": 1.3563165864247617
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.249560632688926,
+        "average_food": 2.061824385453497,
+        "average_wood": 1.730807500756084,
+        "average_water": 2.75613035531876
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.93829787234043,
+        "average_food": 1.8333494208240184,
+        "average_wood": 1.2093666319079381,
+        "average_water": 2.1956360852204884
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.224137931034484,
+        "average_food": 1.140391971036823,
+        "average_wood": 0.5145244111921398,
+        "average_water": 1.2530221664737349
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 31.67005076142132,
+        "average_food": 0.813913327009407,
+        "average_wood": 0.13642395025169599,
+        "average_water": 0.8885206602776309
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.118556701030926,
+        "average_food": 1.184829661026585,
+        "average_wood": 0.6198091176537633,
+        "average_water": 1.2823401368967484
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.76967095851216,
+        "average_food": 1.3563206224276432,
+        "average_wood": 0.8185571430290245,
+        "average_water": 1.623818638917333
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.266409266409266,
+        "average_food": 0.9440437154177983,
+        "average_wood": 0.21042600061442682,
+        "average_water": 1.0867734252843335
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.276252019386106,
+        "average_food": 1.1445488311988683,
+        "average_wood": 0.6176152926166483,
+        "average_water": 1.4066545449996446
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 24.40740740740741,
+        "average_food": 1.704800500020959,
+        "average_wood": 1.141692539699296,
+        "average_water": 1.8212231913520833
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 33.02947845804989,
+        "average_food": 0.849831409960276,
+        "average_wood": 0.21457539343526089,
+        "average_water": 0.9326874659013867
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.566724436741765,
+        "average_food": 1.300157361855352,
+        "average_wood": 0.7792437673837322,
+        "average_water": 1.5087295626537822
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.415841584158414,
+        "average_food": 1.1646625968067117,
+        "average_wood": 0.6120541654678993,
+        "average_water": 1.3773358735949606
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.13333333333333,
+        "average_food": 0.8222829370611922,
+        "average_wood": 0.2587683320418873,
+        "average_water": 0.8542197028344382
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.40787623066104,
+        "average_food": 2.3839344054689695,
+        "average_wood": 1.9842204597335358,
+        "average_water": 3.2234607355875773
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.087218045112785,
+        "average_food": 0.9338757528084803,
+        "average_wood": 0.398853187303346,
+        "average_water": 1.096786242600676
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 13.953781512605042,
+        "average_food": 0.8621181061197842,
+        "average_wood": 0.17533319766471547,
+        "average_water": 0.9470270881293696
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.095168374816986,
+        "average_food": 1.7672838003547944,
+        "average_wood": 1.2370246162033776,
+        "average_water": 2.1851133229673
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.165137614678898,
+        "average_food": 1.0069466420421571,
+        "average_wood": 0.30496807188577774,
+        "average_water": 1.0698911730557548
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.14343434343434,
+        "average_food": 0.8431967848128151,
+        "average_wood": 0.29253128407195184,
+        "average_water": 0.9516703555850063
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.94536213468869,
+        "average_food": 1.1973158699247892,
+        "average_wood": 0.5992567672073633,
+        "average_water": 1.4031268160424681
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 47,
+        "average_food": 1.1305130665080603,
+        "average_wood": 0.5763535696376781,
+        "average_water": 1.4153107649380583
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 26.298360655737707,
+        "average_food": 0.9459910613179403,
+        "average_wood": 0.2463981938274636,
+        "average_water": 0.9995473330792016
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 35.51960784313726,
+        "average_food": 1.5534555993611825,
+        "average_wood": 0.8668816837024769,
+        "average_water": 1.8010331108603121
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.48644578313253,
+        "average_food": 0.8537277670761986,
+        "average_wood": 0.25009944162389625,
+        "average_water": 0.9260889553965399
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 47.1219512195122,
+        "average_food": 2.1876139136663855,
+        "average_wood": 1.693137107183904,
+        "average_water": 2.774544928503227
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.11092715231788,
+        "average_food": 1.446608138531232,
+        "average_wood": 0.8546708741891085,
+        "average_water": 1.742832810090195
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.01813471502591,
+        "average_food": 1.5301270364909865,
+        "average_wood": 0.9046800939117575,
+        "average_water": 1.8637023669184016
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.79207920792079,
+        "average_food": 0.8249248275060383,
+        "average_wood": 0.2281610290213409,
+        "average_water": 0.9608539528777651
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.09855769230769,
+        "average_food": 1.4824327478447876,
+        "average_wood": 0.846918067612331,
+        "average_water": 1.757039062499979
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 43.18066561014263,
+        "average_food": 0.9157133327909,
+        "average_wood": 0.4208870986586973,
+        "average_water": 1.056939838074105
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 31.77260273972603,
+        "average_food": 1.098133730210688,
+        "average_wood": 0.4712429069762356,
+        "average_water": 1.2158694398296073
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.08201892744479,
+        "average_food": 1.8177262113121793,
+        "average_wood": 1.3105213018602468,
+        "average_water": 2.3087409424223164
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.91862567811935,
+        "average_food": 1.3635894634999353,
+        "average_wood": 0.7456304750100027,
+        "average_water": 1.5858998531361872
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.14910536779324,
+        "average_food": 1.6385238784358205,
+        "average_wood": 0.8964866715747218,
+        "average_water": 2.1424711646596446
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 47.51328374070138,
+        "average_food": 1.674319771527353,
+        "average_wood": 1.049687969858743,
+        "average_water": 2.0026060558704546
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.020671834625325,
+        "average_food": 2.9670764881528204,
+        "average_wood": 2.350289712115181,
+        "average_water": 3.8405264721699086
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.5,
+        "average_food": 1.6986681122594363,
+        "average_wood": 1.0507316719487558,
+        "average_water": 2.1072626433479016
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.10077519379845,
+        "average_food": 0.8439853047437249,
+        "average_wood": 0.3389993248920801,
+        "average_water": 0.9269412657939187
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.99813432835821,
+        "average_food": 1.0891349202031222,
+        "average_wood": 0.7279695870767782,
+        "average_water": 1.3198607114554397
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.73255813953488,
+        "average_food": 2.0257963469859765,
+        "average_wood": 1.6097831735145247,
+        "average_water": 2.4818965008662337
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.84425036390102,
+        "average_food": 0.9375357569357533,
+        "average_wood": 0.35681314700232397,
+        "average_water": 1.143935119897233
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.90147783251231,
+        "average_food": 1.5814388874211436,
+        "average_wood": 1.0999230127644832,
+        "average_water": 2.027400497572457
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 34.02005730659026,
+        "average_food": 0.8028759215689513,
+        "average_wood": 0.16559282078693308,
+        "average_water": 0.8677547399205808
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.290488431876607,
+        "average_food": 0.8793319629672685,
+        "average_wood": 0.2654167640912515,
+        "average_water": 0.9567148000223445
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 35.87659574468085,
+        "average_food": 0.7925884326125147,
+        "average_wood": 0.1831409672592439,
+        "average_water": 0.8598761405858545
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 28.655172413793103,
+        "average_food": 1.9665976680029988,
+        "average_wood": 1.2411405486815423,
+        "average_water": 2.4784789303922627
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.254777070063696,
+        "average_food": 0.9160725757472749,
+        "average_wood": 0.4038957364511655,
+        "average_water": 1.1376171834027273
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.526315789473685,
+        "average_food": 1.0171759749066125,
+        "average_wood": 0.4924604026506184,
+        "average_water": 1.1911424183709163
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.95869837296621,
+        "average_food": 1.031051658499041,
+        "average_wood": 0.4509271867154246,
+        "average_water": 1.2176252197328734
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.85423197492163,
+        "average_food": 1.271221502006211,
+        "average_wood": 0.6978391736753713,
+        "average_water": 1.5260626446471774
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 37.56884875846501,
+        "average_food": 1.3775501503153647,
+        "average_wood": 0.7377347751070014,
+        "average_water": 1.5389659830101594
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.88591800356506,
+        "average_food": 1.5525647180367925,
+        "average_wood": 0.9742864134616849,
+        "average_water": 1.8825113459385705
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.440140845070424,
+        "average_food": 0.810601709918713,
+        "average_wood": 0.13076945533863926,
+        "average_water": 0.8770641900232605
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.67463479415671,
+        "average_food": 1.772010479563673,
+        "average_wood": 1.1921417990099705,
+        "average_water": 2.2438311875845365
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.02061855670103,
+        "average_food": 0.7900604158764626,
+        "average_wood": 0.15542384375851423,
+        "average_water": 0.893414151646834
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 9.95897435897436,
+        "average_food": 0.8029064738323425,
+        "average_wood": 0.05209299732496853,
+        "average_water": 0.7566619359145571
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.78392621870883,
+        "average_food": 1.2778398216962004,
+        "average_wood": 0.6830224733923157,
+        "average_water": 1.4986761770851047
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 45.27542372881356,
+        "average_food": 3.0032258879289886,
+        "average_wood": 2.4611782668563653,
+        "average_water": 3.951473490886458
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.078758949880665,
+        "average_food": 0.8553395610560803,
+        "average_wood": 0.2364365769530285,
+        "average_water": 0.9545538353942116
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.247960848287114,
+        "average_food": 0.8777878634246677,
+        "average_wood": 0.34816120737053363,
+        "average_water": 0.9877539285593663
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.340341655716166,
+        "average_food": 0.9491253709224879,
+        "average_wood": 0.3984449114440071,
+        "average_water": 1.0954390156819318
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 32.78506787330317,
+        "average_food": 6.224553655404638,
+        "average_wood": 5.705458763005115,
+        "average_water": 9.184629870258993
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.86077844311377,
+        "average_food": 1.289387403592884,
+        "average_wood": 0.7064456775643085,
+        "average_water": 1.5454461794214667
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 25.123839009287927,
+        "average_food": 0.9834973870981238,
+        "average_wood": 0.49483138673733473,
+        "average_water": 1.1127961240120288
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.94252873563219,
+        "average_food": 1.4491680981428885,
+        "average_wood": 1.0114710401684572,
+        "average_water": 1.7092536604698219
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.34142857142857,
+        "average_food": 1.5667428940267971,
+        "average_wood": 1.011740706152349,
+        "average_water": 1.7849935615499963
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.86326530612245,
+        "average_food": 2.5263809775496284,
+        "average_wood": 1.924096987947077,
+        "average_water": 3.3579642807462884
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.54532775453278,
+        "average_food": 2.127180906598293,
+        "average_wood": 1.592814022794214,
+        "average_water": 2.7945941365055345
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 36.53757225433526,
+        "average_food": 1.6292001948536192,
+        "average_wood": 1.013230835255367,
+        "average_water": 1.9134233296970762
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 41.839228295819936,
+        "average_food": 1.731203563367152,
+        "average_wood": 1.041538815010578,
+        "average_water": 2.1159624502407297
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 42.66996699669967,
+        "average_food": 1.891069888093037,
+        "average_wood": 1.3257582131100538,
+        "average_water": 2.3044189056291375
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 39.81574539363484,
+        "average_food": 0.987253622293018,
+        "average_wood": 0.38022039582395084,
+        "average_water": 1.144753987149167
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 33.66184971098266,
+        "average_food": 2.4072141198746473,
+        "average_wood": 1.8723748765245591,
+        "average_water": 2.8120995538345754
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 46.466840052015606,
+        "average_food": 1.8137261920582008,
+        "average_wood": 1.2188461047230208,
+        "average_water": 2.200802051709601
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 38.449561403508774,
+        "average_food": 1.3538878812491395,
+        "average_wood": 0.7344845729995719,
+        "average_water": 1.6430855649578526
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 40.67641325536062,
+        "average_food": 1.6353718865892712,
+        "average_wood": 1.0013903318129895,
+        "average_water": 2.0611891541848824
+    }
+}{
+    "Farmer_agent": {
+        "livespan": 44.122733612273365,
+        "average_food": 1.5988278526848438,
+        "average_wood": 0.9902461358834934,
+        "average_water": 1.9729574664016931
+    }
+}

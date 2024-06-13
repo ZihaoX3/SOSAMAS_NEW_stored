@@ -7,14 +7,16 @@ import (
 
 func main() {
 	// Parameters for initialization
-	numTribes := 20                    // Example: Number of tribes
+	numTribes := 10                    // Example: Number of tribes
 	tribeSize := 5                     // Example: Size of each tribe
 	porofGreedy := 0.2                 // Example: Proportion of greedy members
 	mapSize := 5                       // Example: Size of the map
 	bandit_original_attack_rate := 0.4 // Example: Bandit original attack rate
+	// bandit_original_attack_rate := 0.5 // Example: Bandit original attack rate
 	origional_attack_rate := 0.2
 	origional_defence_rate := 0.2
 	rate_of_energy_taken := 0.8
+	// rate_of_energy_taken := 0.9
 	origional_death_rate := 0.1
 	origional_birth_rate := 0.1
 
