@@ -1,11 +1,5 @@
 package environment
 
-// type Landscape interface {
-// 	UpdateResources(season string)
-// 	GetWaterLevel() float64
-// 	GetFoodLevel() float64
-// 	GetWoodLevel() float64
-// }
 type Landscape interface {
 	GetType() string
 	InitializeResources()

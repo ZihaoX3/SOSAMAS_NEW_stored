@@ -163,10 +163,6 @@ func (s *Server) RunSimulation(iterations int, greedySwitch bool, origional_defe
 			tribe.SimulateCycle(currentSeason.String(), greedySwitch, s.Tribes, origional_defence_rate, origional_death_rate)
 		}
 
-		// if err := s.ExportEnvironmentStates(i); err != nil {
-		// 	fmt.Printf("Failed to export environment states for round %d: %v\n", i, err)
-		// }
-
 		for _, tribe := range s.Tribes {
 			if tribe.Getnumberofalive() > 0 {
 				avgWater, avgFood, avgWood := tribe.CalculateAverageResources()
