@@ -1,59 +1,59 @@
 [
     {
         "id": 0,
-        "environment": "Forest",
+        "environment": "Desert",
         "neighbors": [
+            1,
             3,
-            4,
-            1
+            4
         ],
-        "water_level": 3.3687287970999824,
-        "food_level": 3.1295269381723334,
-        "wood_level": 8.760487737660121
+        "water_level": 1.0928873467263684,
+        "food_level": 1.0014122511648729,
+        "wood_level": 0.8481005502211609
     },
     {
         "id": 1,
-        "environment": "Pasture",
-        "neighbors": [
-            0,
-            3
-        ],
-        "water_level": 3.5197080640172125,
-        "food_level": 3.1066258116170435,
-        "wood_level": 2.0843448274441885
-    },
-    {
-        "id": 2,
-        "environment": "Forest",
-        "neighbors": [
-            4,
-            3
-        ],
-        "water_level": 3.3267170712786096,
-        "food_level": 3.347334978629764,
-        "wood_level": 8.663107137422214
-    },
-    {
-        "id": 3,
-        "environment": "Forest",
-        "neighbors": [
-            0,
-            1,
-            2
-        ],
-        "water_level": 3.6655027976335006,
-        "food_level": 3.927762830958472,
-        "wood_level": 9.228126187962543
-    },
-    {
-        "id": 4,
         "environment": "Desert",
         "neighbors": [
             0,
-            2
+            2,
+            3
         ],
-        "water_level": 1.0001710111088327,
-        "food_level": 1.1776930337168177,
-        "wood_level": 0.8514682006890932
+        "water_level": 1.2368975404715383,
+        "food_level": 1.2837188284378755,
+        "wood_level": 0.7188239354392614
+    },
+    {
+        "id": 2,
+        "environment": "Pasture",
+        "neighbors": [
+            1,
+            4
+        ],
+        "water_level": 3.068700530896418,
+        "food_level": 3.691938148072774,
+        "wood_level": 2.331107960774376
+    },
+    {
+        "id": 3,
+        "environment": "Pasture",
+        "neighbors": [
+            0,
+            1
+        ],
+        "water_level": 3.2858434428740453,
+        "food_level": 3.1080349709709774,
+        "wood_level": 2.626408487620835
+    },
+    {
+        "id": 4,
+        "environment": "Forest",
+        "neighbors": [
+            2,
+            0
+        ],
+        "water_level": 3.4590886231469464,
+        "food_level": 3.58972831390763,
+        "wood_level": 8.876501060108838
     }
 ]

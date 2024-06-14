@@ -13,12 +13,6 @@ func (g *Farmer_agent) GetType() string {
 }
 
 func (g *Farmer_agent) Resource_takenfromenv(available_water, available_food, available_wood float64, num_alive_agent int) (float64, float64, float64) {
-
-	// //take everything at once
-	// g.waterconsumption = available_water / float64(num_alive_agent)
-	// g.foodconsumption = available_food / float64(num_alive_agent)
-	// g.woodconsumption = available_wood / float64(num_alive_agent)
-
 	if available_water > float64(num_alive_agent)*moderate_max_consumption {
 		g.waterconsumption = farmer_max_consumption
 	} else {
@@ -96,7 +90,3 @@ func (g *Farmer_agent) Greedy_resource_takenfromenv(available_water, available_f
 	}
 	return g.waterconsumption, g.foodconsumption, g.woodconsumption
 }
-
-// func (g *Farmer_agent) CheckSuccessfulAttack(attackrate float64, target_defence_rate float64) bool {
-// 	return false
-// }

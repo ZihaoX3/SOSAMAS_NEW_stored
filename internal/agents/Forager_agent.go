@@ -1,16 +1,5 @@
 package agents
 
-//energy used per round : same range 0.-0.2
-// engergy foraging: 0.3
-
-// import (
-// 	"fmt"
-// 	"math/rand"
-// )
-
-// we need to know the total resource available in the environments --->
-
-//
 type Forager_agent struct {
 	waterconsumption float64
 	foodconsumption  float64

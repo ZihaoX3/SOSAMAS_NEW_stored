@@ -56,23 +56,16 @@ type BaseTribe struct {
 	Greediness          utils.Greediness
 }
 
-// func (t *BaseTribe) DecideAction() TribeAction {
-// 	return Stay
-// }
-
-// func (t *BaseTribe) DecideAllocation()
-
 // initialise
 func GetIBaseTribe(agentType utils.AgentType) *BaseTribe {
 	var behavior agents.Agent_overall
 	switch agentType {
 	case utils.Forager_agent:
-		behavior = &agents.Forager_agent{} // Assuming this is a concrete type implementing Agent_overall
+		behavior = &agents.Forager_agent{}
 	case utils.Farmer_agent:
-		behavior = &agents.Farmer_agent{} // Similarly, for GreedyAgent
+		behavior = &agents.Farmer_agent{}
 	case utils.Bandit_Agent:
-		behavior = &agents.Bandit_Agent{} // And for PredatorAgent
-	// Add cases for other types as necessary
+		behavior = &agents.Bandit_Agent{}
 	default:
 		// Handle default case or error
 	}
@@ -103,10 +96,9 @@ func (t *BaseTribe) IsAlive() bool {
 
 func (t *BaseTribe) AssignRandomEnvironment() {
 	environments := map[utils.EnvironmentType]environment.Landscape{
-		utils.Forest:  &environment.Forest{}, // Ensure these are non-nil and properly initialized
-		utils.Desert:  &environment.Desert{}, // Same here
+		utils.Forest:  &environment.Forest{},
+		utils.Desert:  &environment.Desert{},
 		utils.Pasture: &environment.Pasture{},
-		// other environments...
 	}
 
 	randomEnvType := utils.EnvironmentType(rand.Intn(len(environments)))
@@ -123,7 +115,7 @@ func (t *BaseTribe) Keepenvenergyupdate(season string) (float64, float64, float6
 	//use this at the beginning of the round
 	if t.Environment != nil {
 		//total resource before the increase this round
-		//assume the human action first
+		//assume action first
 		t.Environment.UpdateResources(season)
 		waterGain, foodGain, woodGain := t.Environment.GetResources()
 		return waterGain, foodGain, woodGain
@@ -137,12 +129,6 @@ func (t *BaseTribe) Keepenvenergyupdate(season string) (float64, float64, float6
 
 // used in sever to update agent resources every round
 func (t *BaseTribe) UpdateResources(season string, numofalive int, numberofmoderate int, water_thisround_all float64, food_thisround_all float64, wood_thisround_all float64, greedy_switch bool) {
-	// check of death
-	// if t.water_level < 0 || t.food_level < 0 {
-	// 	t.deadflag = true
-	// 	fmt.Printf("Agent ID: %v, is dead due to low energy\n", t.AgentId)
-	// }
-	// Decrease water and food level for agents
 
 	//keep the final energy set at when agent dead
 	if !t.deadflag {
@@ -156,15 +142,6 @@ func (t *BaseTribe) UpdateResources(season string, numofalive int, numberofmoder
 
 		// Add resources from the environment
 		if t.Environment != nil {
-			// //total resource before the increase this round
-			// //assume the human action first
-			// t.Environment.UpdateResources(season)
-			// // this is rotated
-			// waterGain, foodGain, woodGain := t.Environment.GetResources()
-
-			// Determine actual amount to be consumed
-
-			// actualWaterConsumption := min(waterGain, 0.1)
 			moderate_water_consumption, moderate_food_consumption, moderate_wood_consumption := t.Agentbehaviour.Resource_takenfromenv(water_thisround_all, food_thisround_all, wood_thisround_all, numofalive)
 			greedy_water_consumption, greedy_food_consumption, greedy_wood_consumption := t.Agentbehaviour.Greedy_resource_takenfromenv(water_thisround_all, food_thisround_all, wood_thisround_all, numofalive, numberofmoderate, greedy_switch)
 			if t.Greediness == utils.Moderate {
@@ -190,21 +167,6 @@ func (t *BaseTribe) UpdateResources(season string, numofalive int, numberofmoder
 	}
 
 }
-
-// // Helper functions
-// func max(a, b float64) float64 {
-// 	if a > b {
-// 		return a
-// 	}
-// 	return b
-// }
-
-// func min(a, b float64) float64 {
-// 	if a < b {
-// 		return a
-// 	}
-// 	return b
-// }
 
 func (t *BaseTribe) GetWaterLevel() float64 {
 	return t.water_level
@@ -252,11 +214,6 @@ func (t *BaseTribe) Relocate(targetArea *maps.Area) {
 	t.CurrentArea = targetArea
 	fmt.Printf("Agent ID: %v, Relocated to Area ID %v with environment: %v\n", t.AgentId, targetArea.ID, targetArea.Environment)
 }
-
-// func (t *BaseTribe) Check_possible_relocation(targetArea *Area) bool {
-// 	// check area_connected
-// 	check1 := t.CurrentArea.Is_area_connected(targetArea)
-// }
 
 func (t *BaseTribe) Contribute_to_woodwork(required_wood float64) float64 {
 	if t.IsAlive() {

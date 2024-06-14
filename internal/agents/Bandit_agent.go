@@ -60,45 +60,7 @@ func (p *Bandit_Agent) Greedy_resource_takenfromenv(available_water, available_f
 	return p.waterconsumption, p.foodconsumption, p.woodconsumption
 }
 
-// func (p *Bandit_Agent) attack() {
-// 	//how to attck? ---> randomly take one neighbor down?
-// 	//Take all energy?
-
-// 	// if that land is a predator  what to do? attack?
-// 	// random a number, larger than 0.3 (70% chance to succeed) then take the resource---> every agents on that land
-// 	available_attack_area:= p.CurrentArea.Neighbors
-// }
-
-// func (b *Bandit_Agent) Attack(targets []*BaseTribe) {
-// 	successRate := rand.Float64() // Random success rate
-
-// 	if successRate > 0.5 { // Assuming success if > 0.5
-// 		targets := b.CurrentArea.GetAllTribes() // Get all potential target tribes
-// 		totalEnergyStolen := 0.0
-
-// 		for _, target := range targets {
-// 			if target.Type != "Bandit" { // Avoid attacking other bandits
-// 				energyStolen := target.Energy * 0.9
-// 				target.Energy -= energyStolen
-// 				totalEnergyStolen += energyStolen
-// 			}
-// 		}
-
-// 		// Redistribute stolen energy among Bandit tribe members
-// 		// Assuming a method to get all bandit members: b.GetBanditMembers()
-// 		members := b.GetBanditMembers()
-// 		energyPerMember := totalEnergyStolen / float64(len(members))
-// 		for _, member := range members {
-// 			member.Energy += energyPerMember
-// 		}
-// 	}
-// }
-
 func CheckSuccessfulAttack(attack_rate float64, target_defence float64) bool {
 	porpotion := attack_rate / (attack_rate + target_defence)
 	return (rand.Float64() < (1.2 * porpotion))
 }
-
-// func (p *Bandit_Agent) Should_Attack(neighbors []*Tribe) bool {
-
-// }
