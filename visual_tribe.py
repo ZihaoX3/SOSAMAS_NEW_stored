@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Simulation Visualizer")
 
 # Load JSON data for simulation states and area configurations
-with open('simulation_data.json', 'r') as file:
+with open('simulation_data_dynamic2.json', 'r') as file:
     simulation_data = json.load(file)
 
 with open('area_states.json', 'r') as file:
