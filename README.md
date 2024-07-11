@@ -1,5 +1,8 @@
 # SOSAMAS_FYP
 Multi-Agent Simulation for Self-Organised Social Arrangements
+## Hi, This is Nemo (Zihao)
+After the project presentation, I forgot to upload, modify, or post it. This belongs to my final year project, which is a GoLang SOMAS simulator for North American Tribe social arrangements simulation. If you have any inquiries or anything, please contact me through my e-mail, which is 1223129124@qq.com.
+
 ## Project Overview
 
 This project simulates the adaptive social structures and behaviors of North American indigenous tribes using Self-Organizing Multi-Agent Systems (SOMAS). The aim is to explore decentralized decision-making processes, resource management strategies, and social adaptability within a dynamic environment.
