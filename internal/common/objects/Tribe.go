@@ -95,9 +95,9 @@ func (t *Tribe) InitializeTribe(origional_death_rate float64, origional_birth_ra
 	t.birthrate = origional_birth_rate
 	t.numofdeath = 0
 	t.numofbirth = 0
-	t.totalneeds_ofwood_forboat = 3
-	t.totalneeds_ofwood_forshettle = 2
-	// t.totalneeds_ofwood_forshettle = 3
+	t.totalneeds_ofwood_forboat = 2
+	t.totalneeds_ofwood_forshettle = 3
+	// t.totalneeds_ofwood_forshettle = 2
 	t.Haveboat = false
 	t.Shettle_level = 0
 	t.Isattacking = false
@@ -703,7 +703,7 @@ func (t *Tribe) longestDecliningStreak(rounds int) int {
 	currentStreak := 0
 	longestStreak := 0
 	for i := 1; i < len(recentHistory); i++ {
-		if recentHistory[i] < recentHistory[i-1] {
+		if recentHistory[i] < 0.95*recentHistory[i-1] {
 			currentStreak++
 			if currentStreak > longestStreak {
 				longestStreak = currentStreak
